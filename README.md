@@ -1,6 +1,6 @@
 # Website Sekawan's TB Jember 
 
-coba aginn, kok tadi kek gabisa siii
+coba againn, kok tadi kek gabisa siii
 
 Package tambahan yang digunakan yaitu:
 ```bash
